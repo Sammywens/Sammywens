@@ -2,7 +2,7 @@
 
 <H4>Software Developer 🚀</H4>
 
-I am a backend developer and I currently work as a Database Administrator. 
+I am a backend developer and I currently work as a Database Administrator.<BR>
 I'm currently undergoing a course with AlxAfrica on Software engineering (Fullstack development)
 
 🌍 I'm based in Lagos, Nigeria. <BR>
