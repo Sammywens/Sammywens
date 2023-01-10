@@ -3,6 +3,7 @@
 <H4>Software Developer 🚀</H4>
 
 I am a backend developer and I currently work as a Database Administrator. 
+I'm currently undergoing a course with AlxAfrica on Software engineering (Fullstack development)
 
 🌍 I'm based in Lagos, Nigeria. <BR>
 📧 Contact me at nwene.samuel@gmail.com
