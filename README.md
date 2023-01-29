@@ -1,8 +1,6 @@
 <h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 , I'm Sammy</h1>
 
-![image](https://user-images.githubusercontent.com/111000998/215342878-04a8afa4-9910-488b-af44-8a8cec993076.png)
-<img align="right" alt="Coding" width="300" height="400" src="[https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif](https://user-images.githubusercontent.com/111000998/215342878-04a8afa4-9910-488b-af44-8a8cec993076.png)">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammywens&layout=compact&theme=dark&hide_border=false" /></p>
