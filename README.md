@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Cloud Devops 
 - 💬 Ask me about Python, JavaScript
 - 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
 
 <h3 align="left">Connect with me:</h3>
