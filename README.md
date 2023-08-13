@@ -15,7 +15,7 @@ alt="Sammywens's github stats" /></p>
 
 - 🌱 I’m currently learning **Full stack software engineering**
 
-- 👯 I’m looking to collaborate on **C Language**
+- 👯 I’m looking to collaborate on **C Language**, JavaScript,Asp.net **
 
 - 💬 Ask me about **HTML, C, Python**
 
