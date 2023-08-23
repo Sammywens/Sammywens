@@ -1,15 +1,3 @@
-<h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Sammy</h1>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammywens&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightburnn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" 
-alt="Sammywens's GitHub stats" /></p>
-
-
-
-
-
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Full stack software engineering**
