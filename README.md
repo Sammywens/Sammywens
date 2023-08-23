@@ -5,7 +5,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammywens&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightburnn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" 
-alt="Sammywens's github stats" /></p>
+alt="Sammywens's GitHub stats" /></p>
 
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Back-End Engineering
 - 🌱 I’m currently learning Asp.net core 
 - 👯 I’m looking to collaborate on C# or any Other OOPL based Projects
-- 🤔 I’m looking for help with Cloud Devops 
+- 🤔 I’m looking for help with Cloud DevOps 
 - 💬 Ask me about Python, JavaScript
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
