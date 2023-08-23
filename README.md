@@ -1,5 +1,4 @@
-<h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-, I'm Sammy</h1>
+<h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Sammy</h1>
 
 
 
