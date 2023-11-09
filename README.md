@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sammywens&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Sammywens">
 
-<img src="https://camo.githubusercontent.com/b85e40250c5f804237bae6f61488c072d1813a2d1026a5461c1da65d1682a5f1/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6a756c69616d75697275726934267468656d653d7261646963616c" alt="Sammywens" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&amp;theme=radical" style="max-width: 100%;">
