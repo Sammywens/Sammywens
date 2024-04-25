@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Full-stack software engineering**
 
-- 👯 I’m looking to collaborate on **Node.js**,JavaScript,Asp.net,SQL**
+- 👯 I’m looking to collaborate on **Node.js**,JavaScript,Asp.net,SQL.
 
 - 💬 Ask me about **HTML, C#, Python and JavaScript**
 
