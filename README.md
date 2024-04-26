@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Samuel Nwene">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel Nwene&theme=radical" alt="Samuel Nwene">
 
