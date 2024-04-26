@@ -35,5 +35,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Samuel_Nwene">
+//<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Sammywens">//
+
+![Sammywens's GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical)
+
+
 
