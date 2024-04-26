@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Full-stack software engineering**
 
-- 👯 I’m looking to collaborate on **Node.js**,JavaScript,Asp.net,SQL.
+- 👯 I’m looking to collaborate on projects involving **Node.js, JavaScript, Asp.net, SQL**
 
 - 💬 Ask me about **HTML, C#, Python and JavaScript**
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Sammywens">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical" alt="Samuel Nwene">
 
