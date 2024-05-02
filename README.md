@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 ![Sammywens's GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical)
 
-![Samuel Nwene's GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammywens&theme=radical)
 
 
 
