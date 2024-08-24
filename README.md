@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I'm a Full-stack **Software Engineer with an affinity for Backend development**.
 
-- 🌱 I’m currently learning **Full-stack software engineering**
+- 🌱 I’m currently working on **Python** Programming and its **infusion** with **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on projects involving **Node.js, JavaScript, Asp.net, SQL**
+- 👯 I’m looking to collaborate on projects involving **Node.js, Express.js, Python, JavaScript, Asp.net, SQL**
 
 - 💬 Ask me about **HTML, C#, Python and JavaScript**
 
