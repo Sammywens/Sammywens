@@ -1,4 +1,3 @@
-
 - 🔭 I'm a Full-stack **Software Engineer with an affinity for Backend development**.
 
 - 🌱 I’m currently working on **Python** Programming and its **infusion** with **Artificial Intelligence**
