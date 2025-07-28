@@ -1,6 +1,6 @@
 - 🔭 I'm a Full-stack **Software Engineer with an affinity for Backend development**.
 
-- 🌱 I’m currently working on **Python** Programming and its **infusion** with **Artificial Intelligence**
+- 🌱 I’m currently working on **Python** Programming and its **infusion** with **Artificial Intelligence**, CI/CD and **Kubernetes**.
 
 - 👯 I’m looking to collaborate on projects involving **Node.js, Express.js, Python, JavaScript, Asp.net, SQL**
 
